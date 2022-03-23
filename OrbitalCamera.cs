@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class OrbitalCamera : MonoBehaviour
 {
-    //Object Which is used as orbit origin 
+    //Object which is used as orbit origin 
     public Transform orbitOrigin;
     //Camera which is going to be faced towards object;
     public Transform OCamera;
